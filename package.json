@@ -1,0 +1,18 @@
+{
+  "name": "nunavut",
+  "version": "0.1.0",
+  "description": "modern javascript testing framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "testing"
+  ],
+  "author": "Joseph Harrison-Lim",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.11.2"
+  }
+}
